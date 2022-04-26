@@ -3,9 +3,9 @@
 - 🌱 Atualmente estou aprendendo programação front-end.
 
 <div align="center">
-  <a href="https://github.com/Ton-Klein">
+  <a href="https://github.com/clayton-klein">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ton-Klein&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ton-Klein&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayton-klein&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 <br>
