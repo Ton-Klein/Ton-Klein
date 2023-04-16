@@ -1,6 +1,6 @@
-## Olá, bem-vindo(a)!
+Olá, bem-vindo(a)!
 
-:man_technologist: Atualmente estou estudando programação com foco no Front-End.
+Me chamo Clayton e meu foco está no desenvolvimento **front-end web**. :man_technologist:
 
 <br>
 
