@@ -1,6 +1,6 @@
-Olá, bem-vindo(a)!
+Depois de cerca de 1 ano e 6 meses me dedicando aos estudos de desenvolvimento web front-end, mais de 150 currículos enviados e sem receber sequer uma ligação de retorno por parte das empresas eu decidi desistir desta área, afinal preciso trabalhar e as contas não esperam.
 
-Foco em desenvolvimento **front-end web**. :man_technologist:
+Desejo melhor sorte para quem esteja buscando uma oportunidade de entrar na área.
 
 <br>
 
